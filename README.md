@@ -102,14 +102,6 @@ I'm an M.Tech AIML student at **Vellore Institute of Technology**, passionate ab
 
 ---
 
-## 📊 GitHub Stats
-
-![Arunbalaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunbalaji20-dev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arunbalaji20-dev&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arunbalaji-m)
